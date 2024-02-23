@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780c5046-8697-47e8-906f-b5bf85374685" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/aisc_shapes_a.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/aisc_shapes_c.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/aisc_shapes_hss.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/aisc_shapes_pipe.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/aisc_shapes_w.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/roarks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/roarks/diaphragm.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/roarks/diaphragm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/roarks/plate_buckling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_roarks_diaphragm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_roarks_plate_buckling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/tanks/differential_settlement_interpolator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/tanks/differential_settlement_interpolator.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="780c5046-8697-47e8-906f-b5bf85374685" name="Changes" comment="Updating at end of the week." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +123,7 @@
       <updated>1708563703770</updated>
       <workItem from="1708563707399" duration="6742000" />
       <workItem from="1708597758404" duration="4243000" />
-      <workItem from="1708609262438" duration="31218000" />
+      <workItem from="1708609262438" duration="31764000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -152,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708616578152</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updating at end of the week.">
+      <option name="closed" value="true" />
+      <created>1708726907406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708726907406</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Updating at end of the week." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating at end of the week." />
   </component>
 </project>
